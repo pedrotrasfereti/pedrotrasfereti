@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Pedro e eu sou um novato na área de <strong>programação</strong>. 😊<br>
-  Atualmente, estou realizando um curso profissionalizante de Desenvolvimento Full-Stack na Trybe.
+  Olá, meu nome é Pedro e eu sou um estudante novato na área de <strong>programação</strong>!<br>
+  Atualmente, estou realizando um curso profissionalizante de Desenvolvimento Full-Stack na instuição Trybe.
 </p>
 
 <p align="left">
