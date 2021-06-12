@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Pedro e eu sou um estudante novato na área de <strong>programação</strong>!<br>
-  Atualmente, estou realizando um curso profissionalizante de Desenvolvimento Full-Stack na instuição Trybe.
+  Atualmente, estou realizando um curso profissionalizante de Desenvolvimento Full-Stack na <a href="https://github.com/betrybe" alt="Trybe">Trybe</a>.
 </p>
 
 <p align="left">
