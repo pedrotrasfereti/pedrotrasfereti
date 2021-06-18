@@ -26,4 +26,6 @@
 
   <a href="+55(19)987050602" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-</p>  
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotrasfereti)](https://github.com/anuraghazra/github-readme-stats)
