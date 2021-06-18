@@ -28,5 +28,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
 
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true)
