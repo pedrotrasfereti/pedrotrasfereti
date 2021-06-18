@@ -29,4 +29,4 @@
 </p>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true" width=480/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&theme=cobalt&layout=compact" width=480 margin-top:10/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&theme=cobalt&layout=compact" width=480 margin-top:5/>
