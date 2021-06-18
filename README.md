@@ -31,3 +31,4 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&langs_count=10&theme=cobalt&layout=compact&include_all_commits=true" width=400/>
