@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true)
+
 <p align="left"> 
   Olá, meu nome é Pedro e eu sou um estudante novato na área de <strong>programação</strong> !<br>
   Atualmente, estou realizando um curso profissionalizante de Desenvolvimento Full-Stack na <a href="https://github.com/betrybe" alt="Trybe">Trybe</a>.
@@ -27,9 +29,5 @@
   <a href="+55(19)987050602" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&theme=tokionight&show_icons=true)
 
 
