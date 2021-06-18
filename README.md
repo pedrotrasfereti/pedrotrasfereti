@@ -30,5 +30,5 @@
 
 <hr>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=tokionight&show_icons=true" width=600/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&theme=tokionight&layout=compact" width=600/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true" width=auto/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&theme=cobalttokionight&layout=compact" width=auto/>
