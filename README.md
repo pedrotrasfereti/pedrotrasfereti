@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true)
-
 <p align="left"> 
   Olá, meu nome é Pedro e eu sou um estudante novato na área de <strong>programação</strong> !<br>
   Atualmente, estou realizando um curso profissionalizante de Desenvolvimento Full-Stack na <a href="https://github.com/betrybe" alt="Trybe">Trybe</a>.
@@ -31,3 +29,4 @@
 </p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true)
