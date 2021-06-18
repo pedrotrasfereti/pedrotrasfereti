@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
 <hr>
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&theme=cobalt&layout=compact" width=450 />
-<img align=right src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&theme=cobalt&layout=compact" width=450 />
+<img align=left src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true" />
