@@ -27,6 +27,3 @@
   <a href="+55(19)987050602" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
-<hr>
-<img src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=cobalt&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&theme=cobalt&layout=compact" width=400 />
