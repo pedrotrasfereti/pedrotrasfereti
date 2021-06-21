@@ -18,12 +18,12 @@
 </p>
 
 <p align="left">
-  <a href="pedrotrasfereti@gmail.com" alt="Gmail">
+  <a href="pedrotrasfereti@gmail.com" alt="pedrotrasfereti@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/pedro-trasfereti/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="+55(19)987050602" alt="WhatsApp">
+  <a href="+55(19)987050602" alt="+55(19)987050602">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
