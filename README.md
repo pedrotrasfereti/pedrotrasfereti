@@ -1,25 +1,28 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h2>Hi, I'm Pedro! </h2>
 
-<p align="left"> 
-  Olá, meu nome é Pedro e eu sou um estudante novato na área de <strong>programação</strong>!<br>
-  Atualmente, estou realizando um curso profissionalizante de Desenvolvimento Full-Stack na <a href="https://github.com/betrybe" alt="Trybe">Trybe</a>.
-</p>
+![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
-<p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, TypeScript</strong>
-</p>
+<h3> :man: &nbsp;About Me </h3>
 
-<p align="left">
-  💼 Ferramentas: <strong>Genius, VS Code</strong>
-</p>
+- 🌱 &nbsp; Learning more about frontend technologies.
 
-<p align="left">
-  💌 Aqui vai alguns links para entrar em contato comigo: ⤵️
-</p>
+<h3> :rocket: &nbsp;My Development Stack </h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-trasfereti/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-trasfereti/" /></a>
+**Application and Data**
+
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  <br/> 
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   
-  <a href="pedrotrasfereti@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-pedrotrasfereti@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrotrasfereti@gmail.com" /></a>
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+**Business Tools**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
