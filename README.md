@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
-<h3> :man: &nbsp;About Me </h3>
+<h3> :boy: &nbsp;About Me </h3>
 
 - 🌱 &nbsp; Learning more about frontend technologies.
 
@@ -16,7 +16,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   <br/> 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   
 **DevOps**
 
