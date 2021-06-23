@@ -25,3 +25,15 @@
 **Business Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+ <a href="https://github.com/pedrotrasfereti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
+
+[![Linkedin: Pedro Trasfereti](https://img.shields.io/badge/-pedrotrasfereti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotrasfereti/)](https://www.linkedin.com/in/pedrotrasfereti/)
+[![Gmail Badge](https://img.shields.io/badge/-pedrotrasfereti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotrasfereti@gmail.com)](mailto:pedrotrasfereti@gmail.com)
+[![GitHub Pedro Trasfereti]( https://img.shields.io/github/followers/pedrotrasfereti?label=follow&style=social)](https://github.com/pedrotrasfereti)
