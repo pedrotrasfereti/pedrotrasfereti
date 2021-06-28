@@ -36,4 +36,4 @@
 
 [![Linkedin: Pedro Trasfereti](https://img.shields.io/badge/-pedrotrasfereti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotrasfereti/)](https://www.linkedin.com/in/pedrotrasfereti/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrotrasfereti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotrasfereti@gmail.com)](mailto:pedrotrasfereti@gmail.com)
-[![GitHub Pedro Trasfereti]( https://img.shields.io/github/followers/pedrotrasfereti?label=follow&style=social)](https://github.com/pedrotrasfereti)
+[![GitHub Pedro Trasfereti](https://img.shields.io/github/followers/pedrotrasfereti?label=follow&style=social)](https://github.com/pedrotrasfereti)
