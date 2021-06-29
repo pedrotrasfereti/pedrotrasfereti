@@ -1,4 +1,4 @@
-<h2>Hi, I'm Pedro! </h2>
+<h2>👋 Hi, I'm Pedro! </h2>
 
 ![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
