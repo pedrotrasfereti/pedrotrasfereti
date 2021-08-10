@@ -17,7 +17,7 @@
   <br/>
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+  ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   
 **DevOps**
 
