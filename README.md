@@ -14,8 +14,10 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  <br/> 
+  <br/>
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   
 **DevOps**
 
