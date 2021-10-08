@@ -4,7 +4,7 @@
 
 <h3> :boy: &nbsp;About Me </h3>
 
-- 🌱 &nbsp; Learning more about frontend technologies.
+- 🌱 &nbsp; Learning more about backend technologies.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
