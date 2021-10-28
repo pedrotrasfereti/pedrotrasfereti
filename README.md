@@ -4,7 +4,7 @@
 
 <h3> :boy: Sobre Mim </h3>
 <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
-- 🔭 Estudando Desenvolvimento de Software na [Trybe](https://betrybe.com)
+- 🔭 Estudando Desenvolvimento de Software na ![Trybe](https://betrybe.com)
 - 🌱 Aprendendo mais sobre tecnologias back-end
 - 💬 Me pergunte sobre React!
 - 😄 Pronomes: Qualquer pronome
