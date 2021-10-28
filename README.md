@@ -40,8 +40,11 @@
 
 <br/>
 
-<h3> :earth_americas: Contato: </h3> 
+<h3> :earth_americas: Contato: </h3>
 
-[![Linkedin: Pedro Trasfereti](https://img.shields.io/badge/-pedrotrasfereti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotrasfereti/)](https://www.linkedin.com/in/pedrotrasfereti/)
-[![Gmail Badge](https://img.shields.io/badge/-pedrotrasfereti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotrasfereti@gmail.com)](mailto:pedrotrasfereti@gmail.com)
-[![GitHub Pedro Trasfereti](https://img.shields.io/github/followers/pedrotrasfereti?label=follow&style=social)](https://github.com/pedrotrasfereti)
+<div>
+  <a href="https://www.linkedin.com/in/pedro-trasfereti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pedrotrasfereti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="imipramine#4502" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
+</div>
