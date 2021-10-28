@@ -34,8 +34,12 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
- <a href="https://github.com/pedrotrasfereti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=dracula&show_icons=true" />
+<a href="https://github.com/pedrotrasfereti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&theme=dracula&title_color=2FC18C&bg_color=1A1D21&show_icons=true" />
+</a>
+
+<a href="https://github.com/pedrotrasfereti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21" />
 </a>
 
 <br/>
