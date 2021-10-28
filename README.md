@@ -24,6 +24,7 @@
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=smysql)
   
 **DevOps**
 
