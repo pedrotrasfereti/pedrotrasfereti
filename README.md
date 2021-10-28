@@ -5,7 +5,7 @@
 <h3> :boy: &nbsp;Sobre Mim </h3>
 
 - 🔭 Atualmente estudo Desenvolvimento de Software na [Trybe](https://betrybe.com)
-- 🌱 &nbsp; Aprendendo mais sobre tecnologias back-end
+- 🌱 Aprendendo mais sobre tecnologias back-end
 - 💬 Me pergunte sobre Sass
 - 😄 Pronomes: Qualquer pronome
 
