@@ -1,15 +1,19 @@
-<h2>👋 Hi, I'm Pedro! </h2>
+<h2>👋 Olá, meu nome é Pedro! </h2>
 
 ![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
-<h3> :boy: &nbsp;About Me </h3>
+<h3> :boy: &nbsp;Sobre Mim </h3>
 
-- 🌱 &nbsp; Learning more about backend technologies.
+- 🔭 Atualmente estudo Desenvolvimento de Software na [Trybe](https://betrybe.com)
+- 🌱 &nbsp; Aprendendo mais sobre tecnologias back-end
+- 💬 Me pergunte sobre Sass
+- 😄 Pronomes: Qualquer pronome
 
-<h3> :rocket: &nbsp;My Development Stack </h3>
+<h3> :rocket: &nbsp;Meu stack de desenvolvimento </h3>
 
-**Application and Data**
+**Dados e aplicações**
 
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -18,6 +22,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   
 **DevOps**
@@ -25,7 +30,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-**Business Tools**
+**Ferramentas empresariais**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
