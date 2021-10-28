@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estudo Desenvolvimento de Software na [Trybe](https://betrybe.com)
 - 🌱 Aprendendo mais sobre tecnologias back-end
-- 💬 Me pergunte sobre Sass
+- 💬 Me pergunte sobre React!
 - 😄 Pronomes: Qualquer pronome
 
 <h3> :rocket: &nbsp;Meu stack de desenvolvimento </h3>
@@ -40,7 +40,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
+<h3> :earth_americas: Contato: </h3> 
 
 [![Linkedin: Pedro Trasfereti](https://img.shields.io/badge/-pedrotrasfereti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotrasfereti/)](https://www.linkedin.com/in/pedrotrasfereti/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrotrasfereti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotrasfereti@gmail.com)](mailto:pedrotrasfereti@gmail.com)
