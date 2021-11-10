@@ -7,10 +7,10 @@
   <div align="left" style="display: inline_block">
     <h3> :boy: Sobre Mim </h3>
  
-    - 🔭 Estudando Desenvolvimento de Software na ![Trybe](https://betrybe.com)
-    - 🌱 Aprendendo mais sobre tecnologias back-end
-    - 💬 Me pergunte sobre React!
-    - 😄 Pronomes: Qualquer pronome
+    <li>🔭 Estudando Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
+    <li>🌱 Aprendendo mais sobre tecnologias back-end</li>
+    <li>💬 Me pergunte sobre React!</li>
+    <li>😄 Pronomes: Qualquer pronome</li>
   </div>
 </div>
 
