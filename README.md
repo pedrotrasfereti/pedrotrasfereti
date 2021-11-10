@@ -10,6 +10,8 @@
 - 💬 Me pergunte sobre React!
 - 😄 Pronomes: Qualquer pronome
 
+---
+
 <h3> :rocket: &nbsp;Meu stack de desenvolvimento: </h3>
 
 **Dados e aplicações**
