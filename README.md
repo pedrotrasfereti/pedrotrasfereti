@@ -6,7 +6,7 @@
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <h3> :boy: Sobre Mim </h3>
- 
+
     <li>🔭 Estudando Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>🌱 Aprendendo mais sobre tecnologias back-end</li>
     <li>💬 Me pergunte sobre React!</li>
