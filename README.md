@@ -45,8 +45,8 @@
 ---
 
 <div align="center">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
 
 ---
