@@ -36,6 +36,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
   
 **Ferramentas de negócio**
 
