@@ -1,23 +1,23 @@
-<h2>👋 Olá, meu nome é Pedro! </h2>
+<h2>👋 Hello there, I'm Pedro! </h2>
 
 ![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <h3> :boy: Sobre Mim: </h3>
-    <li>🔭 Estudando Desenvolvimento de Software na <a href="https://betrybe.com"><b>Trybe</b></a></li>
-    <li>🌱 Aprendendo mais sobre tecnologias back-end</li>
-    <li>💬 Me pergunte sobre React!</li>
-    <li>😄 Pronomes: Qualquer pronome</li>
+    <h3> 👨 About me: </h3>
+    <li>🔭 Studying Web Development at <a href="https://betrybe.com"><b>Trybe</b></a></li>
+    <li>🌱 Learning more about backend technologies</li>
+    <li>💬 Ask me about TypeScript </li>
+    <li>😄 Pronouns: any </li>
   </div>
 </div>
 
 ---
 
-<h3> :rocket: &nbsp;Meu stack de desenvolvimento: </h3>
+<h3> :rocket: &nbsp;My development stack </h3>
 
-**Dados e aplicações**
+**Applications and data**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
@@ -40,14 +40,14 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=heroku)
   
-**Ferramentas de negócio**
+**Business Tools**
 
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia&logoColor=884DFF)
 
 ---
 
-<h3> :earth_americas: Contato: </h3>
+<h3> :earth_americas: Contact: </h3>
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-trasfereti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
