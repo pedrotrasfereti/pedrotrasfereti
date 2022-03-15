@@ -19,30 +19,30 @@
 
 **Dados e aplicações**
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  <br/>
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux)
+  ![SASS](https://img.shields.io/badge/-Sass-333333?style=for-the-badge&logo=sass)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=for-the-badge&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=for-the-badge&logo=sequelize)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma)
   
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=heroku)
   
 **Ferramentas de negócio**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
