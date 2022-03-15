@@ -43,6 +43,7 @@
 **Ferramentas de negócio**
 
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia&logoColor=884DFF)
 
 ---
 
