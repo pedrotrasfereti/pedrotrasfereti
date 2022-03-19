@@ -7,7 +7,7 @@
   <div align="left" style="display: inline_block">
     <h3> 👨 About me: </h3>
     <li>🔭 Studying Web Development at <a href="https://betrybe.com"><b>Trybe</b></a></li>
-    <li>🌱 Learning more about backend technologies</li>
+    <li>🌱 Learning more about React and backend technologies</li>
     <li>💬 Ask me about TypeScript </li>
     <li>😄 Pronouns: any </li>
   </div>
