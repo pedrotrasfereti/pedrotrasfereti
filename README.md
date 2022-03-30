@@ -1,21 +1,16 @@
-<h2>👋 Hello there, I'm Pedro! </h2>
+## 👋 Hello there, I'm Pedro!
 
 ![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
-<div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
-  <div align="left" style="display: inline_block">
-    <h3> 👨 About me: </h3>
-    <li>🔭 Studying Web Development at <a href="https://betrybe.com"><b>Trybe</b></a></li>
-    <li>🌱 Learning more about React and backend technologies</li>
-    <li>💬 Ask me about TypeScript </li>
-    <li>😄 Pronouns: any </li>
-  </div>
-</div>
+### 👨 About me:
+- 🔭 Studying Web Development at [**Trybe**](https://betrybe.com)
+- 🌱 Learning more about React and backend technologies
+- 💬 Ask me about TypeScript
+- 😄 Pronouns: any
 
 ---
 
-<h3> :rocket: &nbsp;My development stack </h3>
+### :rocket: &nbsp;My development stack
 
 **Applications and data**
 
@@ -47,10 +42,16 @@
 
 ---
 
-<h3> :earth_americas: Contact: </h3>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrotrasfereti&show_icons=true&theme=tokyonight" alt="pedrotrasfereti" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotrasfereti&layout=compact&theme=tokyonight" alt="pedrotrasfereti" />
+</div>
+
+---
+
+### :earth_americas: Contact:
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-trasfereti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedrotrasfereti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
