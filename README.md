@@ -23,7 +23,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux)
-   ![Jest](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=jest)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=jest)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=for-the-badge&logo=sass)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=for-the-badge&logo=styled-components&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma)
@@ -34,6 +34,8 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=for-the-badge&logo=sequelize)
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma)
+  ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=for-the-badge&logo=mocha)
+  ![Chai](https://img.shields.io/badge/-Chai-333333?style=for-the-badge&logo=chai)
   
 **Databases**
 
