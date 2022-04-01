@@ -12,23 +12,34 @@
 
 ### :rocket: &nbsp;My development stack
 
-**Applications and data**
+**Languages**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
+
+**Frontend / UI**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=for-the-badge&logo=sass)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma)
+  
+**Backend**
+
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=for-the-badge&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=for-the-badge&logo=sequelize)
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma)
   
-**DevOps**
+**Databases**
+
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  
+**Versioning & Deploy**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
@@ -39,7 +50,8 @@
 **Business Tools**
 
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia&logoColor=884DFF)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia)
 
 ---
 
