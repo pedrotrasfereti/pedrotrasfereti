@@ -4,7 +4,7 @@
 
 ### 👨 About me:
 - 🔭 Studying Web Development at [**Trybe**](https://betrybe.com)
-- 🌱 Learning more about React and backend technologies
+- 🌱 Learning more about React, web frameworks, MongoDB and Socket.io
 - 💬 Ask me about TypeScript
 - 😄 Pronouns: any
 
