@@ -3,10 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
 ### 👨 About me:
-- 🔭 Studying Web Development at [**Trybe**](https://betrybe.com)
-- 🌱 Learning more about React, UI Design, MongoDB and Socket.io
-- 💬 Ask me about TypeScript
-- 😄 Pronouns: any
+- 🔭 Bringing innovation to the sports and entertainment industry at [**FANBASE**](https://fanbase.com.br/)
+- 🌱 Learning more about Vue.js, UI Design and AI technologies
+- 💬 Ask me about anything!
+- 😄 Pronouns: he/she/they
 
 ---
 
