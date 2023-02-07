@@ -61,8 +61,8 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel-sigma-five.app/api?username=pedrotrasfereti&show_icons=true&theme=tokyonight" alt="pedrotrasfereti" />
-  <img height="180em" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=pedrotrasfereti&layout=compact&theme=tokyonight" alt="pedrotrasfereti" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrotrasfereti&show_icons=true&theme=tokyonight" alt="pedrotrasfereti" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrotrasfereti&layout=compact&theme=tokyonight" alt="pedrotrasfereti" />
 </div>
 
 ---
