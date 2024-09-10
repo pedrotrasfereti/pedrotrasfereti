@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
 ### 👨 About me:
-- 🔭 Bringing innovation to the sports and entertainment industry at [**FanBase**](https://fanbase.com.br/)
+- 🔭 Looking for a new opportunity in frontend development
 - 🌱 Learning more about Vue.js, UI Design and AI technologies
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/she/they
