@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=pedrotrasfereti&color=006bed)
 
 ### 👨 About me:
-- 🔭 Looking for a new position as a Frontend developer
+- 🔭 Looking for a new position as a React/Next.js developer
 - 🌱 Learning more about MERN (Full-stack), UI Design and AI technologies
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/she/they
